@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "sweetness",
+  "base_artist": "MISIA",
+  "createdAt": "2026-04-03T06:11:33.211924Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sweetness and Light",
+      "artist": "Lush",
+      "has_synced": true,
+      "path": "select/01_Sweetness_and_Light_Lush.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sweetness",
+      "artist": "Yes",
+      "has_synced": false,
+      "path": "select/02_Sweetness_Yes.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sweetness",
+      "artist": "Fischerspooner",
+      "has_synced": true,
+      "path": "select/03_Sweetness_Fischerspooner.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fresher Than the Sweetness in Water",
+      "artist": "Gorky’s Zygotic Mynci",
+      "has_synced": false,
+      "path": "select/04_Fresher_Than_the_Sweetness_in_Water_Gorky’s_Zygotic_Mynci.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sweetness",
+      "artist": "Paradise Lost",
+      "has_synced": true,
+      "path": "select/05_Sweetness_Paradise_Lost.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sweetness",
+      "artist": "Palmistry",
+      "has_synced": false,
+      "path": "select/06_Sweetness_Palmistry.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sweetness (V2)",
+      "artist": "Palmistry",
+      "has_synced": true,
+      "path": "select/07_Sweetness_(V2)_Palmistry.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sweetness Follows",
+      "artist": "R.E.M.",
+      "has_synced": true,
+      "path": "select/08_Sweetness_Follows_R.E.M..lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sweetness Follows",
+      "artist": "R.E.M.",
+      "has_synced": true,
+      "path": "select/09_Sweetness_Follows_R.E.M..lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sweetness Follows",
+      "artist": "R.E.M.",
+      "has_synced": true,
+      "path": "select/10_Sweetness_Follows_R.E.M..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sweetness and Tenderness",
+      "artist": "The Rentals",
+      "has_synced": false,
+      "path": "select/11_Sweetness_and_Tenderness_The_Rentals.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sweetness In Your Light",
+      "artist": "Maple Bee",
+      "has_synced": false,
+      "path": "select/12_Sweetness_In_Your_Light_Maple_Bee.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Like Sweetness",
+      "artist": "Warpaint",
+      "has_synced": true,
+      "path": "select/13_Like_Sweetness_Warpaint.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Counted On Sweetness",
+      "artist": "The Wrens",
+      "has_synced": false,
+      "path": "select/14_Counted_On_Sweetness_The_Wrens.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sweetness And Light",
+      "artist": "Lush",
+      "has_synced": true,
+      "path": "select/15_Sweetness_And_Light_Lush.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sweetness",
+      "artist": "Jimmy Eat World",
+      "has_synced": true,
+      "path": "select/16_Sweetness_Jimmy_Eat_World.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sweetness",
+      "artist": "Yes",
+      "has_synced": true,
+      "path": "select/17_Sweetness_Yes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "sweetness",
+      "artist": "MISIA",
+      "has_synced": false,
+      "path": "select/pl_01_sweetness_MISIA.txt"
+    }
+  ]
+}
